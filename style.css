@@ -1,5 +1,5 @@
 h1{
-    color:green;
+    color:rgb(85, 218, 85);
 }
 
 p{
@@ -12,6 +12,15 @@ button{
 }
 
 body{
-    background-color: rgb(188, 169, 169);
+    background-color: #6e7173;
 }
 
+#headingone{
+    color:pink
+}
+#headingtwo{
+    color:aquamarine
+}
+#headingthree{
+    color:bisque
+}
