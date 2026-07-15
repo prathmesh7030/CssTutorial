@@ -1,3 +1,17 @@
 h1{
-    color:rgb(211, 94, 114);
+    color:green;
 }
+
+p{
+    color:rgb(85, 223, 85);
+}
+
+button{
+    color:rgb(66, 219, 66);
+    background-color: white;
+}
+
+body{
+    background-color: rgb(188, 169, 169);
+}
+
