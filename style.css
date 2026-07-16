@@ -1,4 +1,4 @@
-/* #box{
+ /* #box{
     background-color:rgb(84, 84, 200);
 }
 
@@ -8,7 +8,7 @@
 
 button{
     background-color: aqua;
-} */
+} 
 
 p{
     text-align: center;
@@ -25,4 +25,21 @@ h1{
 
 #para2{
     font-family: 'segoe UI';
+} */
+
+*{
+    font-family: 'Times New Roman';
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 15px;
 }
