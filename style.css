@@ -4,9 +4,21 @@
     color: white;
 }
 
+
+header {
+  position: fixed; /* Forces the rule over theme overrides */
+  top: 0 ;
+  left: 0;
+  width: 100%;
+  z-index: 99999; /* Ensures it stays on top of everything */
+}
+
+
+
 #navbar{
     height: 60px;
     background-color: #0f1111;
+    
 }
 
 button{
@@ -21,3 +33,32 @@ button{
 a{
     margin-right: 200px;
 }
+
+.ContentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    color: #0f1111;
+    display: inline-block;
+    margin-right: 200px;
+    margin-top: 200px;
+}
+
+#content{
+    height: 900px;
+    
+}
+
+
+
+p{
+    color: #0f1111;
+}
+
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
+
+
