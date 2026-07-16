@@ -1,45 +1,23 @@
- /* #box{
-    background-color:rgb(84, 84, 200);
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
 }
 
-.heading{
-    color:rgb(225, 83, 83)
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
 }
 
 button{
-    background-color: aqua;
-} 
-
-p{
-    text-align: center;
+    background-color: #f08804;
 }
 
-h1{
-    text-align: center;
-    text-decoration: red dotted underline;
-}
-
-#para1{
-    font-family: Arial;
-}
-
-#para2{
-    font-family: 'segoe UI';
-} */
-
-*{
-    font-family: 'Times New Roman';
-}
-
-h1{
-    text-align: center;
-    text-transform: uppercase;
-}
-
-#outer{
+#logo{
+    color: #f08804;
     font-size: 25px;
 }
 
-#inner{
-    font-size: 15px;
+a{
+    margin-right: 200px;
 }
