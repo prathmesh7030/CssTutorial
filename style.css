@@ -1,4 +1,4 @@
-#box{
+/* #box{
     background-color:rgb(84, 84, 200);
 }
 
@@ -8,4 +8,21 @@
 
 button{
     background-color: aqua;
+} */
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    text-decoration: red dotted underline;
+}
+
+#para1{
+    font-family: Arial;
+}
+
+#para2{
+    font-family: 'segoe UI';
 }
