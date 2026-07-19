@@ -58,7 +58,7 @@ footer{
     width: 100%;
     bottom: 0;
     left: 0;
-    z-index: -99999;
+    z-index: 99998;
 }
 
 h1{
@@ -127,3 +127,64 @@ h1{
 }
 
 
+
+#container{
+    text-align: center;
+    width: 1500px;
+    height: 400px;
+    display: flex;
+    border: 2px solid black;
+    justify-content: space-around;
+
+    
+}
+
+#box5{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+    padding: 40px;
+    margin: 2px;
+}
+
+#box6{
+    background-color:pink;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+    padding: 40px;
+    margin: 2px;
+}
+
+#box7{
+    background-color:gray;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+    padding: 40px;
+    margin: 2px;
+}
+
+#box8{
+    background-color: rgb(188, 188, 87);
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+    padding: 40px;
+    margin: 2px;
+}
+
+#box9{
+    background-color:lightgreen;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+    padding: 40px;
+    margin: 2px;
+}
