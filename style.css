@@ -150,7 +150,10 @@ h1{
     transform: rotate(45deg);
     position: relative;
     top: 50px;
+   
 }
+    
+
 
 #box6{
     background-color:pink;
@@ -228,3 +231,24 @@ h1{
 #box9:hover{
     background-color: rgb(233, 101, 101);
 }
+
+
+.loader{
+    width: 200px;
+    height: 200px;
+    color: pink;
+    border: 20px solid #FFE66D;
+    border-radius: 50%;
+    border-top: 20px solid #4ECDC4;
+    animation: spinAnimate 3s ease-in 0s infinite normal;
+}
+
+@keyframes spinAnimate{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+
