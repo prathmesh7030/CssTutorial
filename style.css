@@ -147,6 +147,9 @@ h1{
     border: 2px solid black;
     padding: 40px;
     margin: 2px;
+    transform: rotate(45deg);
+    position: relative;
+    top: 50px;
 }
 
 #box6{
@@ -157,6 +160,10 @@ h1{
     border: 2px solid black;
     padding: 40px;
     margin: 2px;
+    transform: rotate(45deg);
+    position: relative;
+    top: 50px;
+   
 }
 
 #box7{
@@ -167,6 +174,10 @@ h1{
     border: 2px solid black;
     padding: 40px;
     margin: 2px;
+    transform: rotate(45deg);
+    position: relative;
+    top: 50px;
+    
 }
 
 #box8{
@@ -177,6 +188,10 @@ h1{
     border: 2px solid black;
     padding: 40px;
     margin: 2px;
+    transform: rotate(45deg);
+    position: relative;
+    top: 50px;
+    
 }
 
 #box9{
@@ -187,25 +202,29 @@ h1{
     border: 2px solid black;
     padding: 40px;
     margin: 2px;
+    transform: rotate(45deg);
+    position: relative;
+    top: 50px;
+    
 }
 
 
 #box5:hover{
-    background-color: rgb(233, 101, 101)
+    background-color: rgb(233, 101, 101);
 }
 
 #box6:hover{
-    background-color: rgb(233, 101, 101)
+    background-color: rgb(233, 101, 101);
 }
 
 #box7:hover{
-    background-color: rgb(233, 101, 101)
+    background-color: rgb(233, 101, 101);
 }
 
 #box8:hover{
-    background-color: rgb(233, 101, 101)
+    background-color: rgb(233, 101, 101);
 }
 
 #box9:hover{
-    background-color: rgb(233, 101, 101)
+    background-color: rgb(233, 101, 101);
 }
